@@ -1,0 +1,37 @@
+Laravel(PHP framework)
+
+Colleges: 
+College of Accountancy
+7 courses
+
+College of Business
+7 courses
+College of Computer Studies
+7 courses
+
+Courses:
+BSIT
+BSIS
+
+year_section:
+3-1, 3-2
+
+school_year
+2020-2021
+
+deans_listers
+org_affiliation = organization_name (INPUT) 
+org_position = input()
+copy_of_grades = file = pic of grades
+good_moral = pic
+
+(need iaprub ng admin)
+
+prospectus
+kabuuang grade
+
+link ng student handbook student side
+
+
+
+
